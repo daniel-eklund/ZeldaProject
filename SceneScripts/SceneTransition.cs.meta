@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2abd6c647d823ce41b87584c6e1611ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerStorage: {instanceID: 0}
+  - fadeInPanel: {fileID: 1016195939289266338, guid: ff8d6a3d7c9d70c4da6259c78aab617f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
